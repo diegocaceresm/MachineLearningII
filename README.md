@@ -1,5 +1,5 @@
-# MachineLearningII
-Assignments for Machine Learning II
+# Assignment 1_MachineLearningII
+
 
 * 1 Covid-19 Disasters
 
